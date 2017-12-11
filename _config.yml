@@ -1,0 +1,58 @@
+# Site wide configuration
+
+title: Charles Chen
+locale: en_US
+description: Data Engineer
+logo: site-logo.png
+search: true
+url: https://ccincharge.github.io/
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "new_blog_post.sh", "tasks.todo"]
+
+
+# Site owner
+owner:
+  name: Charles Chen
+  avatar: bio-photo.jpg
+  email: charles.l.chen.clc@gmail.com
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  github: CCInCharge
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: charles-l-chen
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics: UA-110958441-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

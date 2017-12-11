@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: About Me
+  url: /
+
+- title: Resume
+  url: /Charles_Chen_Resume_2017-11-10.pdf
+
+- title: Projects
+  url: /projects/
+
+- title: Github
+  url: https://github.com/CCInCharge
+
+- title: Blog
+  url: /blog/
+
+- title: Contact Me
+  url: /contact/
