@@ -4,7 +4,7 @@ title: " NewsApi Java Wrapper"
 status: "Deployed"
 excerpt: "This is the excerpt for your new post"
 categories: projects
-tags: [sample-post, readability, test]
+tags: [Java, Travis, API, wrapper, Maven]
 author: charles_chen
 comments: true
 share: true
