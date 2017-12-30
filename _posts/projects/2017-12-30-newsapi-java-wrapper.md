@@ -1,6 +1,7 @@
 ---
 layout: post
 title: " NewsApi Java Wrapper"
+status: "Deployed"
 excerpt: "This is the excerpt for your new post"
 categories: projects
 tags: [sample-post, readability, test]
@@ -13,8 +14,6 @@ modified: 2017-12-30 15:13:32 -0800
 #  credit: 
 #  creditlink: 
 ---
-
-Post your content here
 
 [[Maven Central]](https://mvnrepository.com/artifact/io.github.ccincharge/newsapi) [[Source Code]](https://github.com/CCInCharge/NewsApi-Java-Wrapper)
 
