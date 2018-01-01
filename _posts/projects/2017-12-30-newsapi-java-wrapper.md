@@ -1,8 +1,8 @@
 ---
 layout: post
-title: " NewsApi Java Wrapper"
+title: "NewsApi Java Wrapper"
 status: "Deployed"
-excerpt: "This is the excerpt for your new post"
+excerpt: "A Java wrapper for NewsApi, a RESTful API"
 categories: projects
 tags: [Java, Travis, API, wrapper, Maven]
 author: charles_chen
